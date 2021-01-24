@@ -29,6 +29,14 @@
   text-align: center;
 }
 
+.bday2{
+  font-size: 22px;
+  color: #fff;
+  font-family: 'Josefin Sans';
+  font-weight: 300;
+  text-align: center;
+}
+
 .cover{
   background: rgba(0,0,0,0.82);
   position: absolute;
